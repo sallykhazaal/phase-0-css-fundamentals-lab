@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+a {
+  padding: 10px;
+  background-color: grey;
+}
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+p {
+  width: 800px;
+  text-align: center;
+}
+div {
+  float: left;
+  text-align: center;
+  background-color: grey;
+}
